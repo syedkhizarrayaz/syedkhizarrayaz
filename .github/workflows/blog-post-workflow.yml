@@ -10,5 +10,4 @@ jobs:
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
-                max_post_count: "4"
                 feed_list: "https://medium.com/feed/@khizar.rayaz98"

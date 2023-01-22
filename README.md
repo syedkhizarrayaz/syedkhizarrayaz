@@ -1,9 +1,11 @@
 <h1 align="center">Greetings 👋, from Syed Khizar Rayaz</h1>
 <h3 align="center">👨‍💻🛠🤵 (Developer|Writer|Artist)</h3>
 
-<img align="right" alt="coding-gif" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<p align="center"> <img align="center" alt="coding-gif" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedkhizarrayaz&label=Profile%20views&color=0e75b6&style=flat" alt="syedkhizarrayaz" /> </p>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedkhizarrayaz" alt="syedkhizarrayaz" /></a> </p>
 

@@ -1,63 +1,100 @@
-<h1 align="center">Greetings 👋, from Syed Khizar Rayaz</h1>
-<h3 align="center">👨‍💻🛠🤵 (Developer|Writer|Artist)</h3>
+<h1 align="center">Hi, I'm Syed Khizar Rayaz 👋</h1>
+<h3 align="center">Senior AI & Machine Learning Engineer · Agentic AI · RAG · Fintech Backends</h3>
 
-I am developer based in Pakistan. I am a senior-year bachelor’s student of computer science at UBIT (University of Karachi). I want to create a favorable influence through my work. All of my projects are built from the ground up including planning, designing and solving it with coding attire.
-
-- 👨‍💻 I am freelancing as an academic writer and a developer.
-
-<p align="left">
-      <a href="https://github.com/syedkhizarrayaz?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/syedkhizarrayaz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/syedkhizarrayaz?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/syedkhizarrayaz?color=55960c&style=for-the-badge&labelColor=488208&logo=star"/></a>
-  <img src="https://komarev.com/ghpvc/?username=syedkhizarrayaz&label=Profile%20views&color=C79600&style=for-the-badge&labelColor=48820" alt="syedkhizarrayaz" />
-   </p>
-   
----
-<p align="center"> <img align="center" alt="coding-gif" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /> </p>
-
-<h3 align="left">Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedkhizarrayaz" alt="syedkhizarrayaz" /></a> </p>
-
-
-
-#
-
-- 🌱 I’m currently learning **Machine Learning alongside game-development.**
-
-- 👨‍💻 All of my projects are available at [https://self-craft.vercel.app/](https://self-craft.vercel.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@khizar.rayaz98](https://medium.com/@khizar.rayaz98)
-
-- 📫 How to reach me **khizar.rayaz98@gmail.com**
-
-- ⚡ Fun fact **I love shooting pictures and films.**
-
-#
-<!-- ### Blogs posts -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/syedkhizarrayaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedkhizarrayaz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@syed-khizar-rayaz-412aa318a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@syed-khizar-rayaz-412aa318a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/@syed-khizar-rayaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="@syed-khizar-rayaz" height="30" width="40" /></a>
-<a href="https://instagram.com/@syedkhizarrayaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@syedkhizarrayaz" height="30" width="40" /></a>
-<a href="https://medium.com/@khizar.rayaz98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khizar.rayaz98" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@khizar_rayaz98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@khizar_rayaz98" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://syedkhizarrayaz.github.io"><img src="https://img.shields.io/badge/Portfolio-syedkhizarrayaz.github.io-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/syedkhizarrayaz"><img src="https://img.shields.io/badge/LinkedIn-syedkhizarrayaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@syedkhizarrayaz"><img src="https://img.shields.io/badge/Medium-@syedkhizarrayaz-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:khizar.rayaz98@gmail.com"><img src="https://img.shields.io/badge/Email-khizar.rayaz98@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-#
+<p align="center">
+  <a href="https://github.com/syedkhizarrayaz?tab=followers"><img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/syedkhizarrayaz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/syedkhizarrayaz?tab=repositories&sort=stargazers"><img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/syedkhizarrayaz?color=55960c&style=for-the-badge&labelColor=488208&logo=star"/></a>
+  <img src="https://komarev.com/ghpvc/?username=syedkhizarrayaz&label=Profile%20views&color=C79600&style=for-the-badge&labelColor=48820" alt="profile views"/>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-#
-<h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedkhizarrayaz&show_icons=true&locale=en&layout=compact" alt="syedkhizarrayaz" /></p>
+I build production AI for **banking compliance (AML / GRC), payments and trading**. My work follows one doctrine: *AI drafts, deterministic code decides, humans approve, and every value is source-anchored and hash-chain audited.*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedkhizarrayaz&show_icons=true&locale=en" alt="syedkhizarrayaz" /></p>
+- 🏦 **AI Engineer @ Benchmatrix** (Sep 2024 → now): owner of **10 agentic-AI use cases** for banks (3 production-ready, 2 demo-ready). Latest: a Loss Data Analysis Agent with ~45 endpoints, 56/56 tests and a SHA-256 hash-chained evidence vault, deployed on Kubernetes for a bank demo.
+- 💳 **Senior AI Engineer Consultant @ OneMoneyWay** (Nov 2025 → now): ~155 commits in 10 months across a fintech's core backend, AI onboarding backend, CRM and admin panel. Two payment rails (Treezor, Moonrise), Brevo comms migration, AML regulatory reporting.
+- 📈 **Freelance app developer @ Microlinks** (Apr 2026 → now): PSX brokerage websites and Flutter trading apps (FDM Securities, StockBazar, Chase Securities redesign, Aryans Online).
+- 🎓 **MSc Artificial Intelligence Engineering (thesis track)** at Istanbul Okan University, Sep 2026 → 2028.
+- ✍️ Writing real engineering lessons on [Medium](https://medium.com/@syedkhizarrayaz) and [LinkedIn](https://www.linkedin.com/in/syedkhizarrayaz).
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedkhizarrayaz&" alt="syedkhizarrayaz" /></p>
+## 🔢 By the numbers
+
+| | |
+|---|---|
+| Agentic-AI use cases owned for banks | **10** (8 GRC/operational risk, 2 AML) |
+| Tests across my latest three agents | **56 + 371 + 127** checks |
+| Commits for one fintech client in 10 months | **~155** (~30.8k lines on the core backend) |
+| Local LLMs benchmarked for quote-anchored extraction | **5** (winner: 100% anchor survival, 0 hallucinations) |
+| Production websites and apps shipped in 2026 | **6** (fdm.com.pk, stockbazar.online, aryans.online, trading app v1.1.2 / v1.3.1, OCR service, onboarding module) |
+| Use-case specifications authored | **33** across Incident, Loss Data and RCSA (214 pages) |
+
+## 🛠️ Featured work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Loss Data Analysis Agent** | Virtual GRC analyst: enrichment, gap loop, root cause, impact, action plan, review, monitoring. Append-only hash-chained evidence vault. | FastAPI · MySQL 8 · Angular 19 · Ollama · Docker/K8s |
+| **AML Alert Prioritization + Case Analysis** | Random-forest alert scoring plus a GenAI investigation narrative with an evaluator agent. | scikit-learn · imbalanced-learn · FastAPI · OpenRouter/Ollama |
+| **OneMoneyWay AI backend** | Email cadence automation, bank-statement OCR/RAG validation with PII masking, push notifications. | FastAPI · MongoDB · Redis · ChromaDB · AWS ECS |
+| **Tafreeh** (own product) | Booking marketplace for farmhouses, beach huts and sports venues: 3 role portals, 8 API routers, 487 listings seeded. | Flutter · Dart Shelf · PostgreSQL 16 |
+| **StockBazar** | Offline "PSX Intel" Flutter app (28 screens), KYC onboarding module and a fully local CNIC/passport OCR service with ICAO MRZ validation. | Flutter · Express 5 · PaddleOCR (ONNX) |
+| **Grace SRB** | Original jewellery e-commerce build: 53 products, 18 collections, 32 pages, COD checkout with server-side re-pricing. | Next.js 15 · React 19 · Prisma |
+| [**Pricewise**](https://github.com/syedkhizarrayaz/Pricewise) | Grocery price-comparison app: Google Places store discovery, GPT-4 price prediction, Selenium scraper. | React Native/Expo · Node · DigitalOcean |
+| [**BM Demo Streamlit Apps**](https://github.com/syedkhizarrayaz/BM-Demo-Streamlit-Apps) | Demo apps for GRC semantic search and risk/KRI frameworks. | Streamlit · ChromaDB · Groq |
+
+## ✍️ Recent writing
+
+- [Why your hash-chained audit log breaks on MySQL (and the one-line rule that fixes it)](https://medium.com/@syedkhizarrayaz/why-your-hash-chained-audit-log-breaks-on-mysql-and-the-one-line-rule-that-fixes-it-8e3ed03033ee)
+- [The order is the control: why my AI agent checks the rules before it asks the model](https://medium.com/@syedkhizarrayaz/the-order-is-the-control-why-my-ai-agent-checks-the-rules-before-it-asks-the-model-a66ec32b11e0)
+
+## 🧰 Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+## 📜 Certifications
+
+- Oracle Cloud Infrastructure Certified Generative AI Professional
+- Oracle Cloud Infrastructure Certified AI Foundations Associate
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syedkhizarrayaz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedkhizarrayaz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+</p>
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedkhizarrayaz&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/></a></p>
+
+<p align="center">
+  📄 <a href="https://syedkhizarrayaz.github.io/Syed_Khizar_Rayaz_CV.pdf"><b>Download my CV (PDF)</b></a> · 🌐 <a href="https://syedkhizarrayaz.github.io"><b>Portfolio</b></a> · Based in Istanbul (UTC+3), from Karachi. Open to remote roles worldwide.
+</p>
+
+<sub>Last updated 2026-11-12. This README, my CVs and the portfolio site are refreshed automatically from my project logs.</sub>

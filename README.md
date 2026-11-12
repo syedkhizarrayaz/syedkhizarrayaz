@@ -19,8 +19,8 @@
 I build production AI for **banking compliance (AML / GRC), payments and trading**. My work follows one doctrine: *AI drafts, deterministic code decides, humans approve, and every value is source-anchored and hash-chain audited.*
 
 - 🏦 **AI Engineer @ Benchmatrix** (Sep 2024 → now): owner of **10 agentic-AI use cases** for banks (3 production-ready, 2 demo-ready). Latest: a Loss Data Analysis Agent with ~45 endpoints, 56/56 tests and a SHA-256 hash-chained evidence vault, deployed on Kubernetes for a bank demo.
-- 💳 **Senior AI Engineer Consultant @ OneMoneyWay** (Nov 2025 → now): ~155 commits in 10 months across a fintech's core backend, AI onboarding backend, CRM and admin panel. Two payment rails (Treezor, Moonrise), Brevo comms migration, AML regulatory reporting.
-- 📈 **Freelance app developer @ Microlinks** (Apr 2026 → now): PSX brokerage websites and Flutter trading apps (FDM Securities, StockBazar, Chase Securities redesign, Aryans Online).
+- 💳 **AI Consultant @ OneMoneyWay** (Nov 2025 → now): ~155 commits in 10 months across a fintech's core backend, AI onboarding backend, CRM and admin panel. Two payment rails (Treezor, Moonrise), Brevo comms migration, AML regulatory reporting.
+- 📈 **Freelance app developer @ Microlinks** (Apr → Sep 2026): PSX brokerage websites and Flutter trading apps (FDM Securities, StockBazar, Chase Securities redesign, Aryans Online).
 - 🎓 **MSc Artificial Intelligence Engineering (thesis track)** at Istanbul Okan University, Sep 2026 → 2028.
 - ✍️ Writing real engineering lessons on [Medium](https://medium.com/@syedkhizarrayaz) and [LinkedIn](https://www.linkedin.com/in/syedkhizarrayaz).
 

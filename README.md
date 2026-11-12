@@ -94,7 +94,7 @@ I build production AI for **banking compliance (AML / GRC), payments and trading
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedkhizarrayaz&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/></a></p>
 
 <p align="center">
-  📄 <a href="https://syedkhizarrayaz.github.io/Syed_Khizar_Rayaz_CV.pdf"><b>Download my CV (PDF)</b></a> · 🌐 <a href="https://syedkhizarrayaz.github.io"><b>Portfolio</b></a> · Based in Istanbul (UTC+3), from Karachi. Open to remote roles worldwide.
+  📄 <a href="https://syedkhizarrayaz.github.io/Syed_Khizar_Rayaz_CV.pdf"><b>Download my CV (PDF)</b></a> · <a href="https://syedkhizarrayaz.github.io/Syed_Khizar_Rayaz_CV_OnePage.pdf">one-page version</a> · 🌐 <a href="https://syedkhizarrayaz.github.io"><b>Portfolio</b></a> · Based in Istanbul (UTC+3), from Karachi. Open to remote roles worldwide.
 </p>
 
 <sub>Last updated 2026-11-12. This README, my CVs and the portfolio site are refreshed automatically from my project logs.</sub>

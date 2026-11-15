@@ -52,6 +52,7 @@ I build production AI for **banking compliance (AML / GRC), payments and trading
 
 - [Why your hash-chained audit log breaks on MySQL (and the one-line rule that fixes it)](https://medium.com/@syedkhizarrayaz/why-your-hash-chained-audit-log-breaks-on-mysql-and-the-one-line-rule-that-fixes-it-8e3ed03033ee)
 - [The order is the control: why my AI agent checks the rules before it asks the model](https://medium.com/@syedkhizarrayaz/the-order-is-the-control-why-my-ai-agent-checks-the-rules-before-it-asks-the-model-a66ec32b11e0)
+- [Flutter Web: don't send on a WebSocket before it is ready](https://www.linkedin.com/feed/update/urn:li:activity:7526540559751012352/) (LinkedIn)
 
 ## 🧰 Toolbox
 
@@ -97,4 +98,4 @@ I build production AI for **banking compliance (AML / GRC), payments and trading
   📄 <a href="https://syedkhizarrayaz.github.io/Syed_Khizar_Rayaz_CV.pdf"><b>Download my CV (PDF)</b></a> · <a href="https://syedkhizarrayaz.github.io/Syed_Khizar_Rayaz_CV_OnePage.pdf">one-page version</a> · 🌐 <a href="https://syedkhizarrayaz.github.io"><b>Portfolio</b></a> · Based in Istanbul (UTC+3), from Karachi. Open to remote roles worldwide.
 </p>
 
-<sub>Last updated 2026-11-12. This README, my CVs and the portfolio site are refreshed automatically from my project logs.</sub>
+<sub>Last updated 2026-11-15. This README, my CVs and the portfolio site are refreshed automatically from my project logs.</sub>

@@ -18,10 +18,10 @@
 
 I build production AI for **banking compliance (AML / GRC), payments and trading**. My work follows one doctrine: *AI drafts, deterministic code decides, humans approve, and every value is source-anchored and hash-chain audited.*
 
-- 🏦 **AI Engineer @ Benchmatrix** (Sep 2024 → now): owner of **10 agentic-AI use cases** for banks (3 production-ready, 2 demo-ready). Latest: a Loss Data Analysis Agent with ~45 endpoints, 56/56 tests and a SHA-256 hash-chained evidence vault, deployed on Kubernetes for a bank demo.
+- 🏦 **AI Engineer @ Benchmatrix** (Sep 2024 → now): owner of **10 agentic-AI use cases** for banks (3 production-ready, 2 demo-ready). Built a Loss Data Analysis Agent with ~45 endpoints, 56/56 tests and a SHA-256 hash-chained evidence vault, deployed on Kubernetes for a bank demo. Latest: the deployment architecture for all of the programme's AI agents (gateway, agent service, shared vLLM GPU service).
 - 💳 **AI Consultant @ OneMoneyWay** (Nov 2025 → now): ~155 commits in 10 months across a fintech's core backend, AI onboarding backend, CRM and admin panel. Two payment rails (Treezor, Moonrise), Brevo comms migration, AML regulatory reporting.
 - 📈 **Freelance app developer @ Microlinks** (Apr → Sep 2026): PSX brokerage websites and Flutter trading apps (FDM Securities, StockBazar, Chase Securities redesign, Aryans Online).
-- 🎓 **MSc Artificial Intelligence Engineering (thesis track)** at Istanbul Okan University, Sep 2026 → 2028.
+- 🎓 **MSc Artificial Intelligence Engineering (thesis track)** at Istanbul Okan University, Sep 2026 → 2028. Seminar research: source-grounded LLM extraction of operational-risk loss narratives with small local models.
 - ✍️ Writing real engineering lessons on [Medium](https://medium.com/@syedkhizarrayaz) and [LinkedIn](https://www.linkedin.com/in/syedkhizarrayaz).
 
 ## 🔢 By the numbers
@@ -98,4 +98,4 @@ I build production AI for **banking compliance (AML / GRC), payments and trading
   📄 <a href="https://syedkhizarrayaz.github.io/Syed_Khizar_Rayaz_CV.pdf"><b>Download my CV (PDF)</b></a> · <a href="https://syedkhizarrayaz.github.io/Syed_Khizar_Rayaz_CV_OnePage.pdf">one-page version</a> · 🌐 <a href="https://syedkhizarrayaz.github.io"><b>Portfolio</b></a> · Based in Istanbul (UTC+3), from Karachi. Open to remote roles worldwide.
 </p>
 
-<sub>Last updated 2026-11-15. This README, my CVs and the portfolio site are refreshed automatically from my project logs.</sub>
+<sub>Last updated 2026-11-23. This README, my CVs and the portfolio site are refreshed automatically from my project logs.</sub>
